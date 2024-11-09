@@ -41,8 +41,21 @@ This Data Analysis project contains data and documentation for analysing and vis
 
 **FROM SALES DATA**
 
+![Capstone dataset (2)](https://github.com/user-attachments/assets/5f4c0747-46e1-466b-952a-e2947a73f19b)
+
+![Capstone dataset 2](https://github.com/user-attachments/assets/88e2d8ce-0aa7-41fd-b5f1-e26b9cffa52e)
+
+![Capstone data charts](https://github.com/user-attachments/assets/7993b166-80f4-499b-be43-7ece3f178eb6)
+
+![Capstone dataset](https://github.com/user-attachments/assets/f0e2ad77-7a7c-44c9-8020-cf36206e29bc)
+
 
 _**USED SQL**_
+
+![SQL 1](https://github.com/user-attachments/assets/495cbbba-6ec7-4399-86f9-50f0706dc1ce)
+
+
+
 
 **QUERIES USED FOR THE CUSTOMER DATA**
     
