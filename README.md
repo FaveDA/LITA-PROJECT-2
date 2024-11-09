@@ -59,7 +59,7 @@ _**USED SQL**_
 
 **QUERIES USED FOR THE CUSTOMER DATA**
     
- - created a database, named it CUSTOMER
+ - created a database, named it LITA PROJECT 
  - imported a flat file which is the clean csv format dataset 
  - wrote my queries in line with the project questions asked
  - executed the queries as I wrote them. 
@@ -75,7 +75,6 @@ _**USED SQL**_
 
   - Most revenue is generated in the Southern region and less revenue is generated in the Western region.
   - Most revenue is generated from the sales of Shoes, the least revenue is generated from the sales of Socks.
-  - Total 
 
     ### POWERBI VISUALIZATION
 
@@ -83,13 +82,13 @@ _**USED SQL**_
 
 ### RECOMMENDATIONS
 ------------------------------------------------------------------------------------------------------
-1. Target marketing efforts towars North and West.
-2. Offer incentives for annual subscriptions.
-3. Improve customer retention strategies.
+1. Target marketing efforts towards North and West.
+2. Have more shoes readily available for sale 
+3. Improve sales management for socks. 
 
    ### CONCLUSION
 -------------------------------------------------------------------------------------------
-This project demonstrates the importance of effective customer data management, providing insights into customer behaviour, preferences and needs. It showcases visualized key findings and trends. 
+This project demonstrates the importance of effective sales report management, providing insights into sales performance, preferences and needs. It showcases visualized key findings and trends. 
 
    
     
