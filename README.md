@@ -1,6 +1,28 @@
 ### Project Title: SALES DATA DOCUMENTATION
 ----------------------------------------------------------------
 
+[Project Overview](#project-overview)
+ 
+ [Technologies Used](#technologies-used)
+ 
+ [Data Sources](#data-sources)
+ 
+ [Methodology](#methodology)
+
+ [Microsoft Excel Visualization](#microsoft-excel-visualization).
+
+ [SQL STRUCTURED QUERY LANGUAGE](#sql-structured-query-language)
+
+ [CONCLUSION DRAWN FROM VISUALISATION](#conclusion-drawn-from-visualisation)
+ 
+ [POWERBI DASHBOARD](#powerbi-dashboard)
+ 
+ [RECOMMENDATIONS](#recommendations)
+
+ [CONCLUSION](#conclusion)
+ 
+
+
 ### Project Overview: 
 ----------------------------------------
 This Data Analysis project contains data and documentation for analysing and visualizing sales data. It develops an interactive sales analytics dashboard using Microsoft Excel, SQL, and powerBI. The dashboard provides insights into sales trends, customer behaviour, and product performance, informing business decisions and strategies.
@@ -50,7 +72,7 @@ This Data Analysis project contains data and documentation for analysing and vis
 ![Capstone dataset](https://github.com/user-attachments/assets/f0e2ad77-7a7c-44c9-8020-cf36206e29bc)
 
 
-### SQL- STRUCTURED QUERY LANGUANGE
+### SQL STRUCTURED QUERY LANGUANGE
 
 ![SQL 1](https://github.com/user-attachments/assets/5ecc74e3-2a88-460f-ba3a-cacff9384f51)
 
