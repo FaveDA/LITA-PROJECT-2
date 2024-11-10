@@ -16,11 +16,11 @@ This Data Analysis project contains data and documentation for analysing and vis
   - PowerBI 	[Download Here](https://www.microsoft.com) (data visualisation, reporting)
   - Github (documentation and portfolio building)
 
-  ### Project Information:
+ ### Project Information:
 ----------------------------------------------------------------------------------------------------------------------------------
   This project analysed sales dataset using Microsoft Excel, SQL, and POWERBI to answer some key business related questions
 
-  ### Data Sources
+### Data Sources
 ----------------------------------------------------------------------------------------
   1) Sales team reports
   2) Enterprise resource planning (ERP)systems.
@@ -50,22 +50,21 @@ This Data Analysis project contains data and documentation for analysing and vis
 ![Capstone dataset](https://github.com/user-attachments/assets/f0e2ad77-7a7c-44c9-8020-cf36206e29bc)
 
 
-_**USED SQL**_
+### SQL- STRUCTURED QUERY LANGUANGE
 
-![SQL 1](https://github.com/user-attachments/assets/495cbbba-6ec7-4399-86f9-50f0706dc1ce)
+![SQL 1](https://github.com/user-attachments/assets/5ecc74e3-2a88-460f-ba3a-cacff9384f51)
+
+![SQL query](https://github.com/user-attachments/assets/5d6f8214-24fc-4dd7-8bf0-7ef103bc30d3)
+
+![SQL 2](https://github.com/user-attachments/assets/79e871eb-f86a-466e-8aed-60caf4bec3fc)
 
 
-
-
-**QUERIES USED FOR THE CUSTOMER DATA**
+**QUERIES USED FOR THE SALES DATA**
     
  - created a database, named it LITA PROJECT 
  - imported a flat file which is the clean csv format dataset 
  - wrote my queries in line with the project questions asked
  - executed the queries as I wrote them. 
-
-### SQL VISUALIZATION
-
 
 ### CONCLUSION DRAWN FROM VISUALISATION
 --------------------------------------------------------------------------------------------------
@@ -76,9 +75,12 @@ _**USED SQL**_
   - Most revenue is generated in the Southern region and less revenue is generated in the Western region.
   - Most revenue is generated from the sales of Shoes, the least revenue is generated from the sales of Socks.
 
-    ### POWERBI VISUALIZATION
+### POWERBI DASHBOARD
+-------------------------------------------------------------------------------------------------------------
+The dashboard visualizes key insights on sales performance.
 
-![Customer data powerBI](https://github.com/user-attachments/assets/69e46da1-0685-4b52-bd0c-ee198e9e78f1)
+![Sales data powerBI](https://github.com/user-attachments/assets/8d86fbca-acb0-4ed0-b8a1-9eaad8542768)
+
 
 ### RECOMMENDATIONS
 ------------------------------------------------------------------------------------------------------
@@ -86,7 +88,7 @@ _**USED SQL**_
 2. Have more shoes readily available for sale 
 3. Improve sales management for socks. 
 
-   ### CONCLUSION
+### CONCLUSION
 -------------------------------------------------------------------------------------------
 This project demonstrates the importance of effective sales report management, providing insights into sales performance, preferences and needs. It showcases visualized key findings and trends. 
 
